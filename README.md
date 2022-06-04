@@ -1,2 +1,2 @@
-# plugin.audio.iloveradio
-I Love Radio Kodi Addon
+# plugin.audio.ilovemusic
+I Love Music Kodi Addon Senderliste und Senderlogo Quelle
