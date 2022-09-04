@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/adiko01/plugin.audio.ilovemusic/Daten/Senderlogos/i_love_2_dance.png , i_love_2_dance.png
+https://raw.githubusercontent.com/adiko01/plugin.audio.ilovemusic/Daten/Senderlogos/i_love_BASS_BY_HBZ.png , i_love_BASS_BY_HBZ.png
